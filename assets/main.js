@@ -38,8 +38,8 @@
 
     load()
     function load() {
-        document.querySelector(".loading").classList.remove("hidden");
-        document.querySelector(".content").classList.add("hidden");
+        document.querySelector(".loading").classList.remove("hidden")
+        document.querySelector(".content").classList.add("hidden")
 
         Promise.all([
             fetch(currentPath).then(res => res.text()),
@@ -57,8 +57,13 @@
             decorate(document.querySelector("header"))
             decorate(document.querySelector("footer"))
 
-            document.querySelector(".loading").classList.add("hidden");
-            document.querySelector(".content").classList.remove("hidden");
+            document.querySelector(".loading").classList.add("hidden")
+            document.querySelector(".content").classList.remove("hidden")
+
+            if (mobile) {
+                document.querySelector("header").classList.add("mobile")
+                document.querySelector("footer").classList.add("mobile")
+            }
         })
     }
 
@@ -70,7 +75,7 @@
         svg.prepend(defs)
 
         const style = document.createElement("style")
-        style.textContent = `@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro")`
+        style.textContent = `@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap')`
         style.setAttribute("type", "text/css")
         defs.append(style)
 
