@@ -10,17 +10,6 @@ header {
     width: 100%;
 }
 
-.container {
-    margin: 0 auto;
-    max-width: 1068px;
-}
-
-svg {
-    font-family: "Source Sans Pro", sans-serif;
-    width: 100%;
-    height: auto;
-}
-
 header:after,
 footer:before {
     background: linear-gradient(to right, #9381ff, #ffd8be);
@@ -36,13 +25,24 @@ footer.mobile:before {
     height: 3px;
 }
 
-.content,
-.loading {
+.container {
+    margin: 0 auto;
+    max-width: 1068px;
+}
+
+.content svg {
+    font-family: "Source Sans Pro", sans-serif;
+    width: 100%;
+    height: auto;
+}
+
+.loading,
+.content {
     transition: opacity 0.1s ease-out;
 }
 
-.content.hidden,
-.loading.hidden {
+.loading.hidden,
+.content.hidden {
     opacity: 0;
 }
 
@@ -85,7 +85,7 @@ footer.mobile:before {
         -moz-transform: rotate(360deg);
         -ms-transform: rotate(360deg);
         transform: rotate(360deg);
-   }
+    }
 }
 
 @keyframes rotate {
@@ -94,35 +94,35 @@ footer.mobile:before {
         -moz-transform: rotate(360deg);
         -ms-transform: rotate(360deg);
         transform: rotate(360deg);
-   }
+    }
 }
 
 @-webkit-keyframes dash {
     0% {
         stroke-dasharray: 1, 200;
         stroke-dashoffset: 0;
-   }
+    }
     50% {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -35;
-   }
+    }
     100% {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -124;
-   }
+    }
 }
 
 @keyframes dash {
     0% {
         stroke-dasharray: 1, 200;
         stroke-dashoffset: 0;
-   }
+    }
     50% {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -35;
-   }
+    }
     100% {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -124;
-   }
+    }
 }

@@ -8,7 +8,7 @@
     const mappings = {
         A_TS_INDEX: "/",
         A_TS_FILMLY: "/filmly.html",
-        A_TB_FILMLY_PROTOTYPE: "https://www.figma.com/proto/dh4MWuWdodpiI5rBy5OjvI/Filmly?page-id=23%3A12714&node-id=23%3A12715&viewport=441%2C48%2C0.43&scaling=scale-down&starting-point-node-id=23%3A12715",
+        A_TB_FILMLY_PROTOTYPE: "https://www.figma.com/proto/dh4MWuWdodpiI5rBy5OjvI/Filmly?page-id=23%3A12714&node-id=132%3A7431&viewport=241%2C48%2C0.41&scaling=scale-down&starting-point-node-id=132%3A7428",
         A_TB_RESUME: "/files/nusa.pdf",
         A_TB_LINKEDIN: "https://linkedin.com/in/nusademelo",
         A_TB_NOTION_READING_TRACKER: "https://nusademelo.notion.site/Nusa-s-Reading-Tracker-9de37e7359ca440d8aef3b523cd79262",
@@ -67,20 +67,20 @@
         })
     }
 
-    function decorate(root) {
-        const svg = root.getElementsByTagNameNS(ns, "svg")[0]
+    function decorate(component) {
+        const svg = component.getElementsByTagNameNS(ns, "svg")[0]
         svg.setAttribute("preserveAspectRatio", "xMinYMin")
 
         const defs = document.createElementNS(ns, "defs")
         svg.prepend(defs)
 
         const style = document.createElement("style")
-        style.textContent = `@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap')`
+        style.textContent = `@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap")`
         style.setAttribute("type", "text/css")
         defs.append(style)
 
         Object.entries(mappings).forEach(function([id, href]) {
-            const el = root.querySelector(`#${id}`)
+            const el = component.querySelector(`#${id}`)
             if (!el) {
                 return
             }
