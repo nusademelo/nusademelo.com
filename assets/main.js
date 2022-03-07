@@ -11,7 +11,6 @@
         A_TB_FILMLY_PROTOTYPE: "https://www.figma.com/proto/dh4MWuWdodpiI5rBy5OjvI/Filmly?page-id=23%3A12714&node-id=132%3A7431&viewport=241%2C48%2C0.41&scaling=scale-down&starting-point-node-id=132%3A7428",
         A_TB_RESUME: "/files/nusa.pdf",
         A_TB_LINKEDIN: "https://linkedin.com/in/nusademelo",
-        A_TB_NOTION_READING_TRACKER: "https://nusademelo.notion.site/Nusa-s-Reading-Tracker-9de37e7359ca440d8aef3b523cd79262",
 
         // Books
         A_TB_DONT_MAKE_ME_THINK: "https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited",
@@ -98,9 +97,8 @@
 
     function cleanup(source) {
         const dom = new DOMParser().parseFromString(source, "text/html")
-        dom.querySelectorAll("[filter]").forEach((el) => {
-            el.removeAttribute("filter")
-        })
+        dom.querySelectorAll("[filter]").forEach((el) => el.removeAttribute("filter"))
+        dom.querySelectorAll(`a[href^="http"]:not([target="_blank"])`).forEach((el) => el.setAttribute("target", "_blank"))
         return dom.body.innerHTML
     }
 
