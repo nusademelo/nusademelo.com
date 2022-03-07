@@ -1,6 +1,6 @@
-<svg width="1068" height="3558" viewBox="0 0 1068 3558" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1068" height="3438" viewBox="0 0 1068 3438" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="views / desktop / index">
-<rect width="1068" height="3557.26" fill="#FFFEFD"/>
+<rect width="1068" height="3437.26" fill="#FFFEFD"/>
 <g id="Intro">
 <text id="Hey I&#226;&#128;&#153;m Nusa, a product designer who loves to solve problems in a creative and pragmatic way." fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="48" font-weight="bold" letter-spacing="0.015em"><tspan x="140" y="127.064">Hey I&#x2019;m Nusa, a product designer&#10;</tspan><tspan x="140" y="187.064">who loves to solve problems in a </tspan><tspan x="140" y="247.064">creative and pragmatic way.</tspan></text>
 <rect id="Hero Image" x="20" y="95.5504" width="90" height="90" rx="45" fill="url(#pattern0)"/>
@@ -30,7 +30,7 @@
 <rect x="20" y="1176" width="1028" height="365.263" rx="24" fill="#F7F7F7"/>
 <g id="Text Column_2">
 <text id="Giver Responsive App" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="60" y="1251.3">Giver Responsive App</tspan></text>
-<text id="Giver is a responsive web app that offers people a safe channel to support and contribute to trusted charities. A meaningful way to help causes you care about. Work in progress." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="60" y="1319.53">Giver is a responsive web app that offers people </tspan><tspan x="60" y="1359.53">a safe channel to support and contribute to </tspan><tspan x="60" y="1399.53">trusted charities. A meaningful way to help </tspan><tspan x="60" y="1439.53">causes you care about. Work in progress.</tspan></text>
+<text id="Giver is a responsive web app that offers people a secure channel to contribute with donations to trusted charities. A meaningful way to help causes you care about. Work in progress." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="60" y="1319.53">Giver is a responsive web app that offers people </tspan><tspan x="60" y="1359.53">a secure channel to contribute with donations </tspan><tspan x="60" y="1399.53">to trusted charities. A meaningful way to help </tspan><tspan x="60" y="1439.53">causes you care about. Work in progress.</tspan></text>
 </g>
 <g id="Illustration Column_2" clip-path="url(#clip0_161_4365)">
 <g id="Illustration Vectors">
@@ -135,41 +135,42 @@
 <text id="Continuous Improvement_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="72" font-weight="bold" letter-spacing="-0.01em"><tspan x="20" y="1732.36">Continuous Improvement</tspan></text>
 <g id="Books">
 <text id="Books_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="20" y="1867.56">Books</tspan></text>
-<text id="As a self-taught product designer, I&#226;&#128;&#153;ve been relying on books to learn about UX guidelines and best practices. I&#226;&#128;&#153;m looking forward to applying what I&#226;&#128;&#153;ve been reading to my future projects. I&#226;&#128;&#153;ve also been tracking my reading list on If you have recommendations of books to support my development as a product designer, please send them my way. My LinkedIn DM is always open for a chat." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="20" y="1935.8">As a self-taught product designer, I&#x2019;ve been relying on books to learn about UX guidelines and best </tspan><tspan x="20" y="1975.8">practices. I&#x2019;m looking forward to applying what I&#x2019;ve been reading to my future projects. I&#x2019;ve also </tspan><tspan x="20" y="2015.8">been tracking my reading list on&#10;</tspan><tspan x="20" y="2055.8">&#10;</tspan><tspan x="20" y="2095.8">If you have recommendations of books to support my development as a product designer, please </tspan><tspan x="20" y="2135.8">send them my way. My LinkedIn DM is always open for a chat.</tspan></text>
-<g id="Book Covers">
-<rect id="A_TB_THE_DESIGN_OF_EVERYDAY_THINGS" x="174" y="2297.26" width="120" height="170" rx="10" fill="url(#pattern5)"/>
-<rect id="A_TB_DONT_MAKE_ME_THINK" x="324" y="2297.26" width="120" height="170" rx="10" fill="url(#pattern6)"/>
-<rect id="A_TB_SPRINT" x="474" y="2297.26" width="120" height="170" rx="10" fill="url(#pattern7)"/>
-<rect id="A_TB_HOOKED" x="624" y="2297.26" width="120" height="170" rx="10" fill="url(#pattern8)"/>
-<rect id="A_TB_LEAN_UX" x="774.5" y="2297.76" width="119" height="169" rx="9.5" fill="url(#pattern9)" stroke="#F7F7F7"/>
+<g id="As a self-taught product designer, I&#226;&#128;&#153;ve been relying on books to learn about UX guidelines and best practices. I&#226;&#128;&#153;ve been tracking my reading list on Notion. If you have recommendations of books to support my development as a product designer, please send them my way. My LinkedIn DM is always open for a chat.">
+<text fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="20" y="1935.8">As a self-taught product designer, I&#x2019;ve been relying on books to learn about UX guidelines and best </tspan><tspan x="20" y="1975.8">practices. I&#x2019;ve been tracking my reading list on </tspan><tspan x="573.308" y="1975.8">.&#10;</tspan><tspan x="20" y="2015.8">&#10;</tspan><tspan x="20" y="2055.8">If you have recommendations of books to support my development as a product designer, please </tspan><tspan x="20" y="2095.8">send them my way. My LinkedIn DM is always open for a chat.</tspan></text>
+<text fill="#9381FF" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="502.851" y="1975.8"><a href="https://nusademelo.notion.site/Nusa-s-Reading-Tracker-9de37e7359ca440d8aef3b523cd79262">Notion</a></tspan></text>
 </g>
-<text id="A_TB_NOTION_READING_TRACKER" fill="#9381FF" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="356.01" y="2015.8">Notion</tspan></text>
-<text id="." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="426.454" y="2015.8">.</tspan></text>
+<g id="Book Covers">
+<rect id="A_TB_THE_DESIGN_OF_EVERYDAY_THINGS" x="174" y="2177.26" width="120" height="170" rx="10" fill="url(#pattern5)"/>
+<rect id="A_TB_DONT_MAKE_ME_THINK" x="324" y="2177.26" width="120" height="170" rx="10" fill="url(#pattern6)"/>
+<rect id="A_TB_SPRINT" x="474" y="2177.26" width="120" height="170" rx="10" fill="url(#pattern7)"/>
+<rect id="A_TB_HOOKED" x="624" y="2177.26" width="120" height="170" rx="10" fill="url(#pattern8)"/>
+<rect id="A_TB_LEAN_UX" x="774.5" y="2177.76" width="119" height="169" rx="9.5" fill="url(#pattern9)" stroke="#F7F7F7"/>
+</g>
 </g>
 <g id="Podcasts">
-<text id="Podcasts_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="20" y="2622.56">Podcasts</tspan></text>
-<text id="I&#226;&#128;&#153;ve been listening to a few podcasts to get insights from experienced product designers. The podcasts below are some of my favourites so far." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="20" y="2690.8">I&#x2019;ve been listening to a few podcasts to get insights from experienced product designers.&#10;</tspan><tspan x="20" y="2730.8">The podcasts below are some of my favourites so far.</tspan></text>
+<text id="Podcasts_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="20" y="2502.56">Podcasts</tspan></text>
+<text id="I&#226;&#128;&#153;ve been listening to a few podcasts to get insights from experienced product designers. The podcasts below are some of my favourites so far." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="20" y="2570.8">I&#x2019;ve been listening to a few podcasts to get insights from experienced product designers.&#10;</tspan><tspan x="20" y="2610.8">The podcasts below are some of my favourites so far.</tspan></text>
 <g id="Podcast Covers">
-<rect id="A_TB_USER_DEFENDERS" x="89" y="2812.26" width="200" height="200" rx="10" fill="url(#pattern10)"/>
-<rect id="A_TB_DESIGN_LIFE" x="319" y="2812.26" width="200" height="200" rx="10" fill="url(#pattern11)"/>
-<rect id="A_TB_THE_NNG_UX_PODCAST" x="549" y="2812.26" width="200" height="200" rx="10" fill="url(#pattern12)"/>
-<rect id="A_TB_AWKWARD_SILENCES" x="779" y="2812.26" width="200" height="200" rx="10" fill="url(#pattern13)"/>
+<rect id="A_TB_USER_DEFENDERS" x="89" y="2692.26" width="200" height="200" rx="10" fill="url(#pattern10)"/>
+<rect id="A_TB_DESIGN_LIFE" x="319" y="2692.26" width="200" height="200" rx="10" fill="url(#pattern11)"/>
+<rect id="A_TB_THE_NNG_UX_PODCAST" x="549" y="2692.26" width="200" height="200" rx="10" fill="url(#pattern12)"/>
+<rect id="A_TB_AWKWARD_SILENCES" x="779" y="2692.26" width="200" height="200" rx="10" fill="url(#pattern13)"/>
 </g>
 </g>
 <g id="Next Steps">
-<text id="Next Steps_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="20" y="3167.56">Next Steps</tspan></text>
-<text id="I&#226;&#128;&#153;m looking for a design role in a remote-first, early-stage startup with a strong culture of collaboration and autonomous teams. If that sounds like a good fit, I&#226;&#128;&#153;d love to chat." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="20" y="3235.8">I&#x2019;m looking for a design role in a remote-first, early-stage startup with a strong culture of </tspan><tspan x="20" y="3275.8">collaboration and autonomous teams. If that sounds like a good fit, I&#x2019;d love to chat.</tspan></text>
+<text id="Next Steps_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="20" y="3047.56">Next Steps</tspan></text>
+<text id="I&#226;&#128;&#153;m looking for a design role in a remote-first, early-stage startup with a strong culture of collaboration and autonomous teams. If that sounds like a good fit, I&#226;&#128;&#153;d love to chat." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" letter-spacing="0.015em"><tspan x="20" y="3115.8">I&#x2019;m looking for a design role in a remote-first, early-stage startup with a strong culture of </tspan><tspan x="20" y="3155.8">collaboration and autonomous teams. If that sounds like a good fit, I&#x2019;d love to chat.</tspan></text>
 </g>
 </g>
 <g id="Buttons">
 <g id="A_TB_RESUME">
-<path d="M187 3442.26C187 3422.93 202.67 3407.26 222 3407.26H449C468.33 3407.26 484 3422.93 484 3442.26V3442.26C484 3461.59 468.33 3477.26 449 3477.26H222C202.67 3477.26 187 3461.59 187 3442.26V3442.26Z" fill="#FFFEFD"/>
-<text id="Button Text_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="237.473" y="3450.8">Download Resume</tspan></text>
-<path d="M222 3408.26H449V3406.26H222V3408.26ZM449 3476.26H222V3478.26H449V3476.26ZM222 3476.26C203.222 3476.26 188 3461.04 188 3442.26H186C186 3462.15 202.118 3478.26 222 3478.26V3476.26ZM483 3442.26C483 3461.04 467.778 3476.26 449 3476.26V3478.26C468.882 3478.26 485 3462.15 485 3442.26H483ZM449 3408.26C467.778 3408.26 483 3423.49 483 3442.26H485C485 3422.38 468.882 3406.26 449 3406.26V3408.26ZM222 3406.26C202.118 3406.26 186 3422.38 186 3442.26H188C188 3423.49 203.222 3408.26 222 3408.26V3406.26Z" fill="url(#paint0_linear_161_4365)"/>
+<path d="M174 3322.26C174 3302.93 189.67 3287.26 209 3287.26H459C478.33 3287.26 494 3302.93 494 3322.26V3322.26C494 3341.59 478.33 3357.26 459 3357.26H209C189.67 3357.26 174 3341.59 174 3322.26V3322.26Z" fill="#FFFEFD"/>
+<text id="Button Text_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="235.973" y="3330.8">Download Resume</tspan></text>
+<path d="M209 3288.26H459V3286.26H209V3288.26ZM459 3356.26H209V3358.26H459V3356.26ZM209 3356.26C190.222 3356.26 175 3341.04 175 3322.26H173C173 3342.15 189.118 3358.26 209 3358.26V3356.26ZM493 3322.26C493 3341.04 477.778 3356.26 459 3356.26V3358.26C478.882 3358.26 495 3342.15 495 3322.26H493ZM459 3288.26C477.778 3288.26 493 3303.49 493 3322.26H495C495 3302.38 478.882 3286.26 459 3286.26V3288.26ZM209 3286.26C189.118 3286.26 173 3302.38 173 3322.26H175C175 3303.49 190.222 3288.26 209 3288.26V3286.26Z" fill="url(#paint0_linear_161_4365)"/>
 </g>
 <g id="A_TB_LINKEDIN">
-<path d="M564 3442.26C564 3422.93 579.67 3407.26 599 3407.26H846C865.33 3407.26 881 3422.93 881 3442.26V3442.26C881 3461.59 865.33 3477.26 846 3477.26H599C579.67 3477.26 564 3461.59 564 3442.26V3442.26Z" fill="#9381FF"/>
-<text id="Button Text_3" fill="#FFFEFD" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="614.312" y="3450.8">Connect on LinkedIn</tspan></text>
+<path d="M574 3322.26C574 3302.93 589.67 3287.26 609 3287.26H859C878.33 3287.26 894 3302.93 894 3322.26V3322.26C894 3341.59 878.33 3357.26 859 3357.26H609C589.67 3357.26 574 3341.59 574 3322.26V3322.26Z" fill="#9381FF"/>
+<text id="Button Text_3" fill="#FFFEFD" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="625.812" y="3330.8">Connect on LinkedIn</tspan></text>
 </g>
 </g>
 </g>
@@ -216,7 +217,7 @@
 <pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image13_161_4365" transform="scale(0.0015625)"/>
 </pattern>
-<linearGradient id="paint0_linear_161_4365" x1="139.96" y1="3442.26" x2="692.453" y2="3442.26" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_161_4365" x1="123.317" y1="3322.26" x2="718.596" y2="3322.26" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9381FF"/>
 <stop offset="1" stop-color="#FFD8BE"/>
 </linearGradient>
