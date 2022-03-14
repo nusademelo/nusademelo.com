@@ -9,7 +9,7 @@
         A_TS_INDEX: "/",
         A_TS_FILMLY: "/filmly.html",
         A_TB_FILMLY_PROTOTYPE: "https://www.figma.com/proto/dh4MWuWdodpiI5rBy5OjvI/Filmly?page-id=23%3A12714&node-id=132%3A7431&viewport=241%2C48%2C0.41&scaling=scale-down&starting-point-node-id=132%3A7428",
-        A_TB_RESUME: "/files/nusa.pdf",
+        A_TB_RESUME: "/files/Nusa de Melo.pdf",
         A_TB_LINKEDIN: "https://linkedin.com/in/nusademelo",
 
         // Books
