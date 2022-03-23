@@ -1,6 +1,6 @@
-<svg width="430" height="3024" viewBox="0 0 430 3024" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="430" height="3594" viewBox="0 0 430 3594" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="views / mobile / index">
-<rect width="430" height="3023.67" fill="#FFFEFD"/>
+<rect width="430" height="3593.67" fill="#FFFEFD"/>
 <g id="Intro">
 <g id="Hey I&#226;&#128;&#153;m Nusa, a product designer who loves solving problems in a creative and pragmatic way.">
 <text fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="226.375" y="63.532">, a product </tspan><tspan x="88" y="93.532">designer who loves solving </tspan><tspan x="88" y="123.532">problems in a creative and </tspan><tspan x="88" y="153.532">pragmatic way.</tspan></text>
@@ -133,58 +133,87 @@
 </g>
 <g id="Continuous Improvement">
 <text id="Continuous Improvement_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="20" y="1430.38">Continuous Improvement</tspan></text>
+<g id="Education and Certifications">
+<g id="Title + Description">
+<text id="Education and Certifications_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="20" y="1502.53">Education and Certifications</tspan></text>
+<text id="I&#226;&#128;&#153;ve studied pure mathematics at university but after working closely with the product team at Mathspace and being exposed to Product Design, I decided to pivot my career." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="20" y="1553.11">I&#x2019;ve studied pure mathematics at university </tspan><tspan x="20" y="1587.11">but after working closely with the product </tspan><tspan x="20" y="1621.11">team at Mathspace and being exposed to </tspan><tspan x="20" y="1655.11">Product Design, I decided to pivot my career.</tspan></text>
+</g>
+<g id="Education and Certifications_3">
+<rect x="20" y="1685" width="390" height="324" rx="10" fill="#FFFEFD"/>
+<g id="NNG">
+<text id="Nielsen Norman Group" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="18" font-weight="600" letter-spacing="0.01em"><tspan x="58" y="1720.9">Nielsen Norman Group</tspan></text>
+<circle id="Ellipse 14" cx="43" cy="1716" r="5" fill="#9381FF"/>
+<text id="Interaction Design Specialty | In Progress" fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="58" y="1750.11">Interaction Design Specialty | In Progress</tspan></text>
+</g>
+<g id="Coursera">
+<text id="Google via Coursera" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="18" font-weight="600" letter-spacing="0.01em"><tspan x="58" y="1797.9">Google via Coursera</tspan></text>
+<circle id="Ellipse 14_2" cx="43" cy="1793" r="5" fill="#9381FF"/>
+<text id="UX Design Specialisation | 2021-2022" fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="58" y="1827.11">UX Design Specialisation | 2021-2022</tspan></text>
+</g>
+<g id="Coursera_2">
+<text id="University of California Berkeley" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="18" font-weight="600" letter-spacing="0.01em"><tspan x="58" y="1874.9">University of California Berkeley</tspan></text>
+<circle id="Ellipse 14_3" cx="43" cy="1870" r="5" fill="#9381FF"/>
+<text id="B.A. Pure Mathematics | 2016-2017" fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="58" y="1904.11">B.A. Pure Mathematics | 2016-2017</tspan></text>
+</g>
+<g id="Coursera_3">
+<text id="City College of San Francisco" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="18" font-weight="600" letter-spacing="0.01em"><tspan x="58" y="1951.9">City College of San Francisco</tspan></text>
+<circle id="Ellipse 14_4" cx="43" cy="1947" r="5" fill="#9381FF"/>
+<text id="A.S. Mathematics | 2014-2016" fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="58" y="1981.11">A.S. Mathematics | 2014-2016</tspan></text>
+</g>
+</g>
+</g>
 <g id="Books">
 <g id="Books_2">
-<text id="Books_3" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="20" y="1502.53">Books</tspan></text>
+<text id="Books_3" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="20" y="2072.53">Books</tspan></text>
 <g id="As a self-taught product designer, I&#226;&#128;&#153;ve been relying on books to learn about about UX guidelines and best practices. I&#226;&#128;&#153;ve been tracking my reading list on Notion. If you have recommendations of books to support my development as a product designer, please send them my way. My LinkedIn DM is always open for a chat.">
-<text fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="20" y="1553.11">As a self-taught product designer, I&#x2019;ve been </tspan><tspan x="20" y="1587.11">relying on books to learn about about UX </tspan><tspan x="20" y="1621.11">guidelines and best practices. I&#x2019;ve been </tspan><tspan x="20" y="1655.11">tracking my reading list on </tspan><tspan x="311.333" y="1655.11">.&#10;</tspan><tspan x="20" y="1689.11">&#10;</tspan><tspan x="20" y="1723.11">If you have recommendations of books to </tspan><tspan x="20" y="1757.11">support my development as a product </tspan><tspan x="20" y="1791.11">designer, please send them my way. My </tspan><tspan x="20" y="1825.11">LinkedIn DM is always open for a chat.</tspan></text>
-<text fill="#9381FF" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="252.619" y="1655.11"><a href="https://nusademelo.notion.site/Nusa-s-Reading-Tracker-9de37e7359ca440d8aef3b523cd79262">Notion</a></tspan></text>
+<text fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="20" y="2123.11">As a self-taught product designer, I&#x2019;ve been </tspan><tspan x="20" y="2157.11">relying on books to learn about about UX </tspan><tspan x="20" y="2191.11">guidelines and best practices. I&#x2019;ve been </tspan><tspan x="20" y="2225.11">tracking my reading list on </tspan><tspan x="311.333" y="2225.11">.&#10;</tspan><tspan x="20" y="2259.11">&#10;</tspan><tspan x="20" y="2293.11">If you have recommendations of books to </tspan><tspan x="20" y="2327.11">support my development as a product </tspan><tspan x="20" y="2361.11">designer, please send them my way. My </tspan><tspan x="20" y="2395.11">LinkedIn DM is always open for a chat.</tspan></text>
+<text fill="#9381FF" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="252.619" y="2225.11"><a href="https://nusademelo.notion.site/Nusa-s-Reading-Tracker-9de37e7359ca440d8aef3b523cd79262">Notion</a></tspan></text>
 </g>
 </g>
 <g id="Book Covers">
-<rect x="20" y="1855" width="390" height="286.667" rx="10" fill="#FFFEFD"/>
+<rect x="20" y="2425" width="390" height="286.667" rx="10" fill="#FFFEFD"/>
 <g id="Group 59">
-<rect id="A_TB_LEAN_UX" x="225.5" y="1875.5" width="79" height="112.333" rx="3.5" fill="url(#pattern8)" stroke="#F7F7F7"/>
-<rect id="A_TB_SPRINT" x="125" y="1875" width="80" height="113.333" rx="4" fill="url(#pattern9)"/>
+<rect id="A_TB_LEAN_UX" x="225.5" y="2445.5" width="79" height="112.333" rx="3.5" fill="url(#pattern8)" stroke="#F7F7F7"/>
+<rect id="A_TB_SPRINT" x="125" y="2445" width="80" height="113.333" rx="4" fill="url(#pattern9)"/>
 </g>
 <g id="Group 58">
-<rect id="A_TB_THE_DESIGN_OF_EVERYDAY_THINGS" x="75" y="2008.33" width="80" height="113.333" rx="4" fill="url(#pattern10)"/>
-<rect id="A_TB_DONT_MAKE_ME_THINK" x="175" y="2008.33" width="80" height="113.333" rx="4" fill="url(#pattern11)"/>
-<rect id="A_TB_HOOKED" x="275" y="2008.33" width="80" height="113.333" rx="4" fill="url(#pattern12)"/>
+<rect id="A_TB_THE_DESIGN_OF_EVERYDAY_THINGS" x="75" y="2578.33" width="80" height="113.333" rx="4" fill="url(#pattern10)"/>
+<rect id="A_TB_DONT_MAKE_ME_THINK" x="175" y="2578.33" width="80" height="113.333" rx="4" fill="url(#pattern11)"/>
+<rect id="A_TB_HOOKED" x="275" y="2578.33" width="80" height="113.333" rx="4" fill="url(#pattern12)"/>
 </g>
 </g>
 </g>
 <g id="Podcasts">
-<g id="Title + Description">
-<text id="Podcasts_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="20" y="2205.2">Podcasts</tspan></text>
-<text id="I&#226;&#128;&#153;ve been listening to a few podcasts to get insights from experienced product designers. The podcasts below are some of my favourites so far." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="20" y="2255.78">I&#x2019;ve been listening to a few podcasts to get </tspan><tspan x="20" y="2289.78">insights from experienced product designers. </tspan><tspan x="20" y="2323.78">The podcasts below are some of my </tspan><tspan x="20" y="2357.78">favourites so far.</tspan></text>
+<g id="Title + Description_2">
+<text id="Podcasts_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="20" y="2775.2">Podcasts</tspan></text>
+<text id="I&#226;&#128;&#153;ve been listening to a few podcasts to get insights from experienced product designers. The podcasts below are some of my favourites so far." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="20" y="2825.78">I&#x2019;ve been listening to a few podcasts to get </tspan><tspan x="20" y="2859.78">insights from experienced product designers. </tspan><tspan x="20" y="2893.78">The podcasts below are some of my </tspan><tspan x="20" y="2927.78">favourites so far.</tspan></text>
 </g>
 <g id="Podcast Covers">
-<rect x="20" y="2387.67" width="390" height="260" rx="10" fill="#FFFEFD"/>
+<rect x="20" y="2957.67" width="390" height="260" rx="10" fill="#FFFEFD"/>
 <g id="Group 60">
-<rect id="A_TB_USER_DEFENDERS" x="105" y="2407.67" width="100" height="100" rx="4" fill="url(#pattern13)"/>
-<rect id="A_TB_DESIGN_LIFE" x="225" y="2407.67" width="100" height="100" rx="4" fill="url(#pattern14)"/>
-<rect id="A_TB_THE_NNG_UX_PODCAST" x="105" y="2527.67" width="100" height="100" rx="4" fill="url(#pattern15)"/>
-<rect id="A_TB_AWKWARD_SILENCES" x="225" y="2527.67" width="100" height="100" rx="4" fill="url(#pattern16)"/>
+<rect id="A_TB_USER_DEFENDERS" x="105" y="2977.67" width="100" height="100" rx="4" fill="url(#pattern13)"/>
+<rect id="A_TB_DESIGN_LIFE" x="225" y="2977.67" width="100" height="100" rx="4" fill="url(#pattern14)"/>
+<rect id="A_TB_THE_NNG_UX_PODCAST" x="105" y="3097.67" width="100" height="100" rx="4" fill="url(#pattern15)"/>
+<rect id="A_TB_AWKWARD_SILENCES" x="225" y="3097.67" width="100" height="100" rx="4" fill="url(#pattern16)"/>
 </g>
 </g>
 </g>
 <g id="Next Steps">
-<g id="Title + Description_2">
-<text id="Next Steps_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="20" y="2711.2">Next Steps</tspan></text>
-<text id="I&#226;&#128;&#153;m looking for a design role in a remote-first, early-stage startup with a strong culture of collaboration and autonomous teams. If that sounds like a good fit, I&#226;&#128;&#153;d love to chat." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="20" y="2761.78">I&#x2019;m looking for a design role in a remote-first, </tspan><tspan x="20" y="2795.78">early-stage startup with a strong culture of </tspan><tspan x="20" y="2829.78">collaboration and autonomous teams. If that </tspan><tspan x="20" y="2863.78">sounds like a good fit, I&#x2019;d love to chat.</tspan></text>
+<g id="Title + Description_3">
+<text id="Next Steps_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="20" y="3281.2">Next Steps</tspan></text>
+<text id="I&#226;&#128;&#153;m looking for a design role in a remote-first, early-stage startup with a strong culture of collaboration and autonomous teams. If that sounds like a good fit, I&#226;&#128;&#153;d love to chat." fill="#767388" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="20" letter-spacing="0.015em"><tspan x="20" y="3331.78">I&#x2019;m looking for a design role in a remote-first, </tspan><tspan x="20" y="3365.78">early-stage startup with a strong culture of </tspan><tspan x="20" y="3399.78">collaboration and autonomous teams. If that </tspan><tspan x="20" y="3433.78">sounds like a good fit, I&#x2019;d love to chat.</tspan></text>
 </g>
 </g>
 </g>
 <g id="Buttons">
 <g id="A_TB_RESUME">
-<path d="M43 2958.67C43 2944.86 54.1929 2933.67 68 2933.67H170C183.807 2933.67 195 2944.86 195 2958.67C195 2972.47 183.807 2983.67 170 2983.67H68C54.1929 2983.67 43 2972.47 43 2958.67Z" fill="#FFFEFD"/>
-<text id="Button Text_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="90.9375" y="2964.35">Resume</tspan></text>
-<path d="M68 2934.67H170V2932.67H68V2934.67ZM170 2982.67H68V2984.67H170V2982.67ZM68 2982.67C54.7452 2982.67 44 2971.92 44 2958.67H42C42 2973.03 53.6406 2984.67 68 2984.67V2982.67ZM194 2958.67C194 2971.92 183.255 2982.67 170 2982.67V2984.67C184.359 2984.67 196 2973.03 196 2958.67H194ZM170 2934.67C183.255 2934.67 194 2945.41 194 2958.67H196C196 2944.31 184.359 2932.67 170 2932.67V2934.67ZM68 2932.67C53.6406 2932.67 42 2944.31 42 2958.67H44C44 2945.41 54.7452 2934.67 68 2934.67V2932.67Z" fill="url(#paint0_linear_382_329)"/>
+<path d="M43 3528.67C43 3514.86 54.1929 3503.67 68 3503.67H170C183.807 3503.67 195 3514.86 195 3528.67C195 3542.47 183.807 3553.67 170 3553.67H68C54.1929 3553.67 43 3542.47 43 3528.67Z" fill="#FFFEFD"/>
+<text id="Button Text_2" fill="#262143" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="90.9375" y="3534.35">Resume</tspan></text>
+<path d="M68 3504.67H170V3502.67H68V3504.67ZM170 3552.67H68V3554.67H170V3552.67ZM68 3552.67C54.7452 3552.67 44 3541.92 44 3528.67H42C42 3543.03 53.6406 3554.67 68 3554.67V3552.67ZM194 3528.67C194 3541.92 183.255 3552.67 170 3552.67V3554.67C184.359 3554.67 196 3543.03 196 3528.67H194ZM170 3504.67C183.255 3504.67 194 3515.41 194 3528.67H196C196 3514.31 184.359 3502.67 170 3502.67V3504.67ZM68 3502.67C53.6406 3502.67 42 3514.31 42 3528.67H44C44 3515.41 54.7452 3504.67 68 3504.67V3502.67Z" fill="url(#paint0_linear_382_329)"/>
 </g>
 <g id="A_TB_LINKEDIN">
-<path d="M235 2958.67C235 2944.86 246.193 2933.67 260 2933.67H362C375.807 2933.67 387 2944.86 387 2958.67C387 2972.47 375.807 2983.67 362 2983.67H260C246.193 2983.67 235 2972.47 235 2958.67Z" fill="#9381FF"/>
-<text id="Button Text_3" fill="#FFFEFD" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="280.203" y="2964.35">LinkedIn</tspan></text>
+<path d="M235 3528.67C235 3514.86 246.193 3503.67 260 3503.67H362C375.807 3503.67 387 3514.86 387 3528.67C387 3542.47 375.807 3553.67 362 3553.67H260C246.193 3553.67 235 3542.47 235 3528.67Z" fill="#9381FF"/>
+<text id="Button Text_3" fill="#FFFEFD" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="280.203" y="3534.35">LinkedIn</tspan></text>
 </g>
 </g>
 </g>
@@ -240,7 +269,7 @@
 <pattern id="pattern16" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image15_382_329" transform="scale(0.0015625)"/>
 </pattern>
-<linearGradient id="paint0_linear_382_329" x1="18.9255" y1="2958.67" x2="301.683" y2="2958.67" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_382_329" x1="18.9255" y1="3528.67" x2="301.683" y2="3528.67" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9381FF"/>
 <stop offset="1" stop-color="#FFD8BE"/>
 </linearGradient>
