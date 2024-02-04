@@ -237,6 +237,10 @@ section.about-me .flex {
 	}
 }
 
+section.about-me a.podcast-link {
+  font-weight: 600;
+}
+
 section.about-me a.download {
 	background-image: url(img/icons/download.svg);
 	background-position: center right;
