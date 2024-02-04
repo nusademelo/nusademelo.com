@@ -232,13 +232,19 @@ section.about-me .flex {
 
 @media screen and (min-width: 1024px) {
 	section.about-me .flex {
+		align-items: flex-start;
 		flex-direction: row;
 		gap: 64px;
 	}
 }
 
-section.about-me a.podcast-link {
-  font-weight: 600;
+section.about-me p {
+	margin-bottom: 16px;
+}
+
+section.about-me a.podcast {
+	font-weight: 600;
+	text-decoration: underline;
 }
 
 section.about-me a.download {
